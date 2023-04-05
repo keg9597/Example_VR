@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/VRClayGame.unity
+    guid: 7153d414a34c910418e5869cfdcbc280
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: acf8504ccdcb20e46a20e1116fe592dc,
+      type: 2}
